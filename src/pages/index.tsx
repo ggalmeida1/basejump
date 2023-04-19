@@ -1,5 +1,5 @@
-import BasejumpHomepage from "@/components/basejump-default-content/homepage";
+import LandingPage from "@/components/basejump-default-content/homepage";
 
-const IndexPage = () => <BasejumpHomepage />;
+const IndexPage = () => <LandingPage />;
 
 export default IndexPage;
